@@ -1,6 +1,6 @@
 # courses-api
 
-## API de curso hecha con node.js, express y sequelize
+## API de cursos hecha con node.js, express y sequelize
 
 
 

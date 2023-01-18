@@ -11,6 +11,7 @@ class CategoriesServices {
   }
 
   static async delete(id) {
+    
     try {
       const result = await Categories.destroy({ where: { id } });
       return result;
